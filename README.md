@@ -9,7 +9,6 @@ Minha transição para a área de tecnologia nasceu da vontade de transformar pr
 
 Tenho como objetivo unir minha experiência em negócio com desenvolvimento de software para criar soluções simples, escaláveis e que gerem impacto real.
 
-<br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gb-gustavo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhguimas/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo.guimaraes09@outlook.com)
@@ -24,7 +23,6 @@ Tenho como objetivo unir minha experiência em negócio com desenvolvimento de s
     <img align="center" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="API" src="https://img.shields.io/badge/REST_API-%E2%9C%93-lightgrey?style=for-the-badge" />
     
-    
-<br></br>
+
 
 ### Apaixonado por tecnologia e curioso por natureza!!! 👨‍💻
