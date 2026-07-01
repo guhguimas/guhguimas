@@ -8,7 +8,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente atuo como A
 Minha transição para a área de tecnologia nasceu da vontade de transformar processos em soluções. Hoje direciono meus estudos para desenvolvimento Back-end, automação de processos e construção de APIs utilizando Python.
 
 Tenho como objetivo unir minha experiência em negócio com desenvolvimento de software para criar soluções simples, escaláveis e que gerem impacto real.
-<br></br>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gb-gustavo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhguimas/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo.guimaraes09@outlook.com)
