@@ -15,7 +15,7 @@ Tenho como objetivo unir minha experiência em negócio com desenvolvimento de s
 
 ![Gustavo Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=guhguimas&show_icons=true&theme=radical)
 
-### 🚀 Atualmente estudando
+### 🚀 Atualmente Estudando
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="PY" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
