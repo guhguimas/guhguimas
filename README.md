@@ -22,6 +22,9 @@ Tenho como objetivo unir minha experiência em negócio com desenvolvimento de s
     <img align="center" alt="PY" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="API" src="https://img.shields.io/badge/REST_API-%E2%9C%93-lightgrey?style=for-the-badge" />
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
+    
     
 <br></br>
 
