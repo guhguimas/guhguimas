@@ -14,7 +14,7 @@ Tenho como objetivo unir minha experiência em negócio com desenvolvimento de s
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhguimas/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo.guimaraes09@outlook.com)
 
-![Gustavo Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=guhguimas&show_icons=true&theme=radical)
+![Gustavo Barbosa • GitHub stats](https://github-readme-stats.vercel.app/api?username=guhguimas&show_icons=true&theme=radical)
 
 ### 🚀 Atualmente Estudando
 
